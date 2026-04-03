@@ -34,14 +34,14 @@ export const selfData = {
   ],
 
   socials_username: {
-    facebook: "",
+    facebook: "ashishkumargupta",
     github: "Engineer-Bhai",
-    instagram: "",
-    leetcode: "",
+    instagram: "ashishkumargupta",
+    leetcode: "ashishkumargupta",
     linkedin: "ashish-kumar-gupta-5b64aa28a",
-    snapchat: "",
-    telegram: "",
-    twitter: "",
+    snapchat: "ashishkumargupta",
+    telegram: "ashishkumargupta",
+    twitter: "ashishkumargupta",
   },
 };
 
