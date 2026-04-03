@@ -1,0 +1,24 @@
+# Ashish Kumar Gupta - Student Developer Portfolio
+
+## About
+Ashish Kumar Gupta is a Student Developer and Creative Coder based in Mathura, India. He specializes in Full-Stack Web Development, primarily using the React and Next.js ecosystem.
+
+## Skills
+- **Languages**: JavaScript, TypeScript, Python, Java, C/C++, SQL
+- **Frameworks**: Next.js, React, Express.js, Tailwind CSS
+- **Tools**: Git, GitHub, Vercel, Firebase, MongoDB
+
+## Projects
+- **Portfolio**: This website, showcasing his work and skills.
+- **Various Open Source Experiments**: Available on GitHub.
+
+## Contact
+- **Email**: ashishkumarguptabtech@gmail.com
+- **GitHub**: https://github.com/Engineer-Bhai
+- **LinkedIn**: www.linkedin.com/in/ashish-kumar-gupta-5b64aa28a
+- **Twitter**: https://twitter.com/
+
+## Content Structure
+- `/`: Main landing page with Hero, About, Skills, Experience, Projects, and Contact sections.
+- `/resume`: Direct link to view/download resume.
+
